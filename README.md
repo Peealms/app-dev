@@ -1,54 +1,56 @@
 # app-dev
 
-My first repository. This README is about my favorite series.
+My first repository. This README is about my favorite movie series.
 
 ---
 
-## My Favorite Series: *Avatar: The Last Airbender*
+## My Favorite Movie Series: *The Avengers*
 
-**Avatar: The Last Airbender** is an animated series that first aired in **2005** on Nickelodeon. It follows *Aang*, the last Airbender, who has to master all four elements to stop the Fire Nation.
+**The Avengers** is a superhero movie series from **Marvel Studios**. It brings together heroes from different Marvel movies into one team that protects the Earth from big threats.
 
-> "When we hit our lowest point, we are open to the greatest change." - Aang
+> "Avengers, assemble!" - Captain America
 
-### Main Characters
+### The Original Six Avengers
 
-| Character | Element | Role |
-|-----------|---------|------|
-| Aang | Air (and all four) | The Avatar |
-| Katara | Water | Healer and fighter |
-| Sokka | None | The planner of the group |
-| Toph | Earth | Earthbending teacher |
-| Zuko | Fire | Prince of the Fire Nation |
+| Hero | Real Name | Played By |
+|------|-----------|-----------|
+| Iron Man | Tony Stark | Robert Downey Jr. |
+| Captain America | Steve Rogers | Chris Evans |
+| Thor | Thor Odinson | Chris Hemsworth |
+| Hulk | Bruce Banner | Mark Ruffalo |
+| Black Widow | Natasha Romanoff | Scarlett Johansson |
+| Hawkeye | Clint Barton | Jeremy Renner |
 
-### The Four Nations
+### The Avengers Movies (in order)
 
-1. Water Tribes
-2. Earth Kingdom
-3. Fire Nation
-4. Air Nomads
+1. The Avengers (2012)
+2. Avengers: Age of Ultron (2015)
+3. Avengers: Infinity War (2018)
+4. Avengers: Endgame (2019)
 
 ### Why I Like It
 
-- The story is simple to follow but still deep
-- The characters grow a lot, especially **Zuko**
-- It has funny parts and serious parts
-  - Sokka gives most of the jokes
-  - The war scenes are serious
+- The action scenes are really fun to watch
+- Each hero has a different personality and power
+- It connects many movies into one big story
+  - Infinity War has a big cliffhanger
+  - Endgame finishes the story
 
-### Episodes I Rewatched
+### My Watch List
 
-- [x] The Boy in the Iceberg
-- [x] The Southern Air Temple
-- [ ] Sozin's Comet (Parts 1-4)
+- [x] The Avengers
+- [x] Avengers: Infinity War
+- [x] Avengers: Endgame
+- [ ] Rewatch all the movies in order
 
 ### Fun Fact
 
-The show was ~~cancelled~~ finished in 2008 after **3 seasons** called `Book 1: Water`, `Book 2: Earth`, and `Book 3: Fire`.
+The villain in Infinity War is **Thanos**, and he collects the six `Infinity Stones`. ~~He wins in the end.~~ He wins in Infinity War, but the Avengers fight back in Endgame.
 
 ```text
-Water. Earth. Fire. Air.
+Avengers, assemble!
 ```
 
 ---
 
-Learn more on [Wikipedia](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender).
+Learn more on [Wikipedia](https://en.wikipedia.org/wiki/Avengers_(Marvel_Cinematic_Universe)).
